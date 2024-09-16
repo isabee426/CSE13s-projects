@@ -1,3 +1,5 @@
+//written by Isabella Shapland
+
 #include "bitwriter.h"
 #include "node.h"
 #include "pq.h"
