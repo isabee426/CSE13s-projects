@@ -5,7 +5,6 @@
 * File:     pq.h
 * Purpose:  Header file for PriorityQueue using a linked list.
 * Author:   Kerry Veenstra
-*
 * -----------------------
 * DO NOT MODIFY THIS FILE
 * -----------------------
