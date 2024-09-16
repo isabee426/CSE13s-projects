@@ -5,7 +5,6 @@
 * File:     node.h
 * Purpose:  Header file for node.c
 * Author:   Kerry Veenstra
-*
 * -----------------------
 * DO NOT MODIFY THIS FILE
 * -----------------------
