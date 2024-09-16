@@ -2,6 +2,7 @@
 #define _BIT_WRITER
 
 /*
+
 * File:     bitwriter.h
 * Purpose:  Header file for bitwriter.c
 * Author:   Kerry Veenstra
