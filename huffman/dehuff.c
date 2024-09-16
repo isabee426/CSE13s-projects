@@ -1,3 +1,5 @@
+//written by Isabella Shapland
+
 #include "bitreader.h"
 #include "node.h"
 #include "pq.h"
